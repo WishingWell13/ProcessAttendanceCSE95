@@ -11,3 +11,4 @@ In lab, take attendance using a spreadsheet like `CSE95_WI25_Attendance.xlsx`. F
 On top of the attendance spreadsheet, `CSE95_WI25_Attendance_Gradescope.ipynb` also needs:
 - The roster for the class (to match names to PIDs)
 - A sample image of "yes" or "no" used to generate the PDF
+- `handwritten.tiff` used to write text onto the PDF generated
